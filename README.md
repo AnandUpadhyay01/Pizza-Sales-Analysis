@@ -49,10 +49,7 @@ Data analysis involved exploring sales data to answer key questions, such as:
 - Friday is the day with highest number of orders: (3.5 K)
 
 
-### References 
 
-1)	Data analysis portfolio project
-2)	[youtube]( https://youtu.be/V-s8c6jMRN0?si=7BoZwEorzWoFj01e)
 
 
 
